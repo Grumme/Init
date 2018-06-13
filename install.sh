@@ -9,3 +9,12 @@ sudo npm install -g npm
 
 # INSTALL DOCKER
 brew install docker
+
+# INSTALL SWIFTGEN
+brew install swiftgen
+
+# INSTALL COCOAPODS
+sudo gem install cocoapods
+
+# INSTALL JAZZY
+sudo gem install jazzy

@@ -6,6 +6,9 @@ It still needs more work. This is just a starting template.
 * Oh My ZSH!
 * NPM
 * Docker
+* SwiftGen
+* CocoaPods
+* Jazzy
 
 #### Run script with curl
 
